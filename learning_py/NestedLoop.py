@@ -4,5 +4,5 @@ symbol = input("Enter a symbol to use: ")
 
 for i in range (row):
     for j in range (column):
-        print (symbol, end="")
+        print (symbol, end = "")
     print()
